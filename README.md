@@ -16,7 +16,7 @@ Recommendations are based solely on user's past likes/ dislikes & how other user
 
 ### 4. Hybrid Filtering:
 
-## --------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 
 ## Project Description:
 <p>WhichBook is a Collaborative Filtering and Popularity based Book Recommendation System which recommends the users a selection of books based on their interests.</p>
@@ -48,7 +48,7 @@ For Ratings Table:
 * Upper-casing all the alphabets present in the ISBN column.
 * Removal of duplicate entries from the table.
 
-## --------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 
 ### 2. Algorithms Implemented:
 #### 2.1 Popularity Based Recommendation :
