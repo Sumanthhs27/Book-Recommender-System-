@@ -7,6 +7,7 @@ Recommendation Systems are one of the largest application areas of Machine Learn
 There are 4 main types of recommendation systems:
 
 ### 1. Popularity based Filtering:
+Here the recommendations are based on the top popular items on that specific Platform. These recommendations are displayed to all the users using the platform.
 
 ### 2. Content based Filtering:
 Recommendations are based on user's past likes/ dislikes & item feature space. The system makes recommendations which are similar to items the user has liked in the past. Items are considered similar based on item's features such as author, publisher, genre etc
@@ -15,6 +16,7 @@ Recommendations are based on user's past likes/ dislikes & item feature space. T
 Recommendations are based solely on user's past likes/ dislikes & how other users have rated other items. The system does not take into consideration an item's features like author, publisher, genre etc nor a user's features like age, gender, location etc. These take either a memory based approach or a model based approach
 
 ### 4. Hybrid Filtering:
+Hybrid Filtering uses combination of all the 3 methods above and overcomes the difficulties in them and is more effective in real world applications.
 
 ## -------------------------------------------------------------------------------------
 
